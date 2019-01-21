@@ -4,3 +4,5 @@
 
 
 De opdracht was eenvoudig: bouw een game in PhaserJS.
+
+Launch project: http://student.howest.be/jerom.verschoote/projects/flappy-bird-web-game/
